@@ -7,6 +7,8 @@ import math
 número1 = float(input("Ingresa un número:")) # los input obtienen tipo de dato string
 número2 = float(input('Ingresa otro número:'))
 
+PI = 3.1416 # Declarar, crear o instanciar una Constante
+
 # PROCESOS (Operaciones y/o cálculos matemáticos y lógicos)
 suma = número1 + número2
 resta = número1	- número2
